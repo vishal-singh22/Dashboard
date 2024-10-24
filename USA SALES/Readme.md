@@ -24,7 +24,7 @@
 ## Screenshots
 
 ### Sales Overview
-![Sales Overview](Screenshot 2024-10-24 231730.png)
+![Sales Overview](USA SALES/Screenshot 2024-10-24 231840.png)
 
 ### Regional Sales Breakdown
 ![Regional Sales Breakdown](Screenshot 2024-10-24 231740.png)
