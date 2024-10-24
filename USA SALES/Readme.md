@@ -24,7 +24,7 @@
 ## Screenshots
 
 ### Sales Overview
-![Sales Overview](Dashboard/USA.png)
+![Sales Overview]([Dashboard/USA.png](https://github.com/vishal-singh22/Dashboard/blob/8f9b8aa10d5ffa642790b97b7ad4ee4e5ffd398b/USA%20SALES/Screenshot%202024-10-24%20231730.png))
 
 ### Regional Sales Breakdown
 ![Regional Sales Breakdown](Screenshot 2024-10-24 231740.png)
