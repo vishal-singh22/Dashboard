@@ -24,10 +24,10 @@
 ## Screenshots
 
 ### Sales Overview
-![Sales Overview]([Dashboard/USA.png](https://github.com/vishal-singh22/Dashboard/blob/8f9b8aa10d5ffa642790b97b7ad4ee4e5ffd398b/USA%20SALES/Screenshot%202024-10-24%20231730.png))
+![Sales Overview](https://github.com/vishal-singh22/Dashboard/blob/fc5339a6f6b9070879f2e9e4448cfedd5918b66d/USA%20SALES/sales_overview.png)
 
 ### Regional Sales Breakdown
-![Regional Sales Breakdown](Screenshot 2024-10-24 231740.png)
+![Regional Sales Breakdown](https://github.com/vishal-singh22/Dashboard/blob/fc5339a6f6b9070879f2e9e4448cfedd5918b66d/USA%20SALES/region_sales_overview.png)
 
 ## Key Insights
 
