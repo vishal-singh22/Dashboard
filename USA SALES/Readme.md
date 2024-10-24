@@ -24,10 +24,10 @@
 ## Screenshots
 
 ### Sales Overview
-![Sales Overview](assets/screenshots/sales_overview.png)
+![Sales Overview](Screenshot 2024-10-24 231730.png)
 
 ### Regional Sales Breakdown
-![Regional Sales Breakdown](assets/screenshots/regional_sales.png)
+![Regional Sales Breakdown](Screenshot 2024-10-24 231740.png)
 
 ## Key Insights
 
