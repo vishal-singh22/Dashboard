@@ -70,8 +70,7 @@
 ![Cardholder Demographics](https://github.com/vishal-singh22/Dashboard/blob/8ccf2432035e7254268598fb414e3e8a58cc6c02/credit_card/Screenshot%202025-01-01%20085720.png)
 
 ### Transaction Trends
-![Transaction Trends](https://github.com/vishal-singh22/Dashboard/blob/main/CreditCard/transaction_trends.png)
-
+![Transaction Trends](https://github.com/vishal-singh22/Dashboard/blob/6496d71028b17794a78376b0bde5520469ef47bf/credit_card/Screenshot%202025-01-01%20085813.png)
 ## Key Insights
 
 - Spending Patterns
