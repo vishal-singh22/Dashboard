@@ -1,4 +1,3 @@
-
 # USA Sales Dashboard using Power BI
 
 ## Features
@@ -39,6 +38,50 @@
 
 - Incorporate Real-Time Data
 - Predictive Analysis
+
+---
+
+# Credit Card Information Dashboard using Power BI
+
+## Features
+
+- Cardholder Demographics
+- Transaction Trends
+- Fraud Detection Analysis
+- Interactive Filters
+- Visual Representation
+
+## Tools & Technologies
+
+- Power BI
+- Financial Data Source
+
+## How to Use
+
+1. Open the Project
+2. Explore Cardholder Demographics
+3. Analyze Transaction Trends
+4. Investigate Fraud Patterns
+5. Apply Filters
+
+## Screenshots
+
+### Cardholder Demographics
+![Cardholder Demographics](https://github.com/vishal-singh22/Dashboard/blob/main/CreditCard/cardholder_demographics.png)
+
+### Transaction Trends
+![Transaction Trends](https://github.com/vishal-singh22/Dashboard/blob/main/CreditCard/transaction_trends.png)
+
+## Key Insights
+
+- Spending Patterns
+- Demographic Trends
+- Fraud Detection Insights
+
+## Future Improvements
+
+- Add Predictive Fraud Models
+- Real-Time Transaction Tracking
 
 ## License
 
